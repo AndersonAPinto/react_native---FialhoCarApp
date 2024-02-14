@@ -10,7 +10,7 @@
 ![VsCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 
 
-### Faça o [DOWNLOAD](LinkAQUI)
+### Faça o [DOWNLOAD](https://github.com/AndersonAPinto/react_native---FialhoCarApp/blob/885efce9706f6e10010fde63d669cf9a1ecdb028/application-4d24b0ab-69aa-466a-97a3-1995b1b76045.apk)
 
 <img src="assets/splash.png" width="200" height="400" alt="Splash do App"/> <img src="assets\images\dashboard.jpeg" width="200" height="400" alt="Dashboard do App"/> <img src="assets\images\filesSaved.jpeg" width="200" height="400" alt="Placas salvas com a respectiva imagem"/>
 
