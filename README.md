@@ -10,5 +10,7 @@
 ![VsCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 
 
+### Faça o [DOWNLOAD](LinkAQUI)
+
 <img src="assets/splash.png" width="200" height="400" alt="Splash do App"/> <img src="assets\images\dashboard.jpeg" width="200" height="400" alt="Dashboard do App"/> <img src="assets\images\filesSaved.jpeg" width="200" height="400" alt="Placas salvas com a respectiva imagem"/>
 
